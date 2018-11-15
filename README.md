@@ -6,9 +6,9 @@ Serenity BDD FW
 
 In Serenity, requirements are organized into three levels:
 
-capabilities
-features
-stories 
+- capabilities
+- features
+- stories 
  
 ## Maven Repository
 
